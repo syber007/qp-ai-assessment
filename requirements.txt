@@ -1,0 +1,15 @@
+effdet==0.4.1
+ipykernel==6.25.2
+langchain==0.0.288
+openai==0.28.0
+pinecone-client==2.2.2
+pytesseract==0.3.10
+unstructured==0.10.14
+unstructured-inference==0.5.28
+tiktoken==0.5.1
+python-dotenv
+pypdf==3.16.2
+streamlit
+pyinstaller
+
+# --hidden-import=tiktoken_ext.openai_public --hidden-import=tiktoken_ext
